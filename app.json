@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Flash Man",
+    "slug": "flashman",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#111111" },
+    "android": { "package": "ly.flash.flashman" },
+    "ios": { "bundleIdentifier": "ly.flash.flashman" }
+  }
+}

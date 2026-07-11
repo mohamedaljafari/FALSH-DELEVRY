@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Flash Restaurant",
+    "slug": "flashrestaurant",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#111111" },
+    "android": { "package": "ly.flash.flashrestaurant" },
+    "ios": { "bundleIdentifier": "ly.flash.flashrestaurant" }
+  }
+}
